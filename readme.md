@@ -1,4 +1,13 @@
-### Hi👋, I'm Sohum Venkatadri
+# 💫 Hi 👋, I'm Sohum Venkatadri
+**A passionate Web Developer || Web3 Learner**
+
+Email Me 👉 ✉️ **sohumnaidu121@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Contributing and solving bugs on OpenSource
+- 🌱 **I’m currently learning:** Web3 development
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** sohumnaidu121@gmail.com
+
 ---
 
 ## 🌐 Socials:
@@ -13,10 +22,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sohumvenkatadri7&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sohumvenkatadri7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohumvenkatadri7&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ A small bit of Inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
