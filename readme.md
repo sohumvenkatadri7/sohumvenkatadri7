@@ -22,8 +22,9 @@ Email Me 👉 ✉️ **sohumnaidu121@gmail.com** For Collaboration/Project or An
 
 # 📊 Github Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+
 <br>
-![](https://github-readme-stats.vercel.app/api?username=sohumvenkatadri7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=sohumvenkatadri7&show_icons=true&theme=dark" height="160px"/>
 
 <!-- Snake Game Repo View -->
 
